@@ -2,6 +2,7 @@
 
 # Optional eslint cache
 .eslintcache
+.env
 
 # dependencies
 /node_modules
